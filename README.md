@@ -28,8 +28,8 @@ Senior Software Engineer specializing in high-performance backend architectures,
 ### 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Heri's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HeriCraft&show_icons=true&theme=tokyonight" alt="Heri's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeriCraft&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
