@@ -1,5 +1,7 @@
 <p align="center">
-  <h1>Hi there, I'm Heri! 👋</h1>
+  <h1 align="center">
+    Hi there, I'm Heri! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
+  </h1>
 </p>
 
 <p align="center">
@@ -53,13 +55,6 @@ Senior Software Engineer specializing in high-performance backend architectures,
 </p>
 
 ---
-
-<h3 align="center">📊 GitHub Analytics & Activity</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&title_color=8C4F62&icon_color=00B4AC&text_color=ffffff&bg_color=1a1a1a" alt="Heri's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&ring=8C4F62&fire=00B4AC&currStreakLabel=F1B827" alt="GitHub Streak" height="180px" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&title_color=8C4F62&text_color=ffffff&bg_color=1a1a1a" alt="Top Languages" height="150px" />
