@@ -6,11 +6,11 @@
   </a>
 </p>
 
-Senior Software Engineer spécialisé dans les architectures backend haute performance, le cloud et les écosystèmes d'entreprise modernes. Je conçois des systèmes distribués résilients avec un focus absolu sur le Modulith, l'Event-Driven et le code propre.
+Senior Software Engineer specializing in high-performance backend architectures, cloud infrastructure, and modern enterprise ecosystems. I design resilient distributed systems with an absolute focus on Modulith, Event-Driven Architecture, and clean code.
 
 ---
 
-### ⚡ Technologies & Écosystème
+### ⚡ Technologies & Ecosystem
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java_25-8C4F62?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -28,33 +28,20 @@ Senior Software Engineer spécialisé dans les architectures backend haute perfo
 
 ---
 
-### 🌀 Philosophie Architecturale
+### 🌀 Architectural Philosophy
 
 🚀 **Modulith First**
-> Favoriser les monolithes modulaires bien délimités pour maîtriser la complexité avant d'ajouter l'overhead du réseau.
+> Favoring well-bounded modular monoliths to manage system complexity effectively before introducing unnecessary network overhead.
 
 📡 **Event-Driven Resilience**
-> Utiliser des patterns de messagerie asynchrone pour garantir un couplage lâche et une haute disponibilité.
+> Utilizing asynchronous messaging patterns to guarantee loose coupling, fault tolerance, and high availability.
 
 ☕ **Modern Java Power**
-> Exploiter les dernières fonctionnalités de Java 25 et des runtimes légers comme Quarkus pour des démarrages ultra-rapides et une empreinte mémoire minimale.
+> Leveraging the cutting-edge features of Java 25 alongside lightweight runtimes like Quarkus for sub-second startup times and a minimal memory footprint.
 
 ---
 
-### 📊 Statistiques & Activité GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&title_color=8C4F62&icon_color=00B4AC&text_color=ffffff&bg_color=1a1a1a" alt="Heri's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&ring=8C4F62&fire=00B4AC&currStreakLabel=F1B827" alt="GitHub Streak" height="180px" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&title_color=8C4F62&text_color=ffffff&bg_color=1a1a1a" alt="Top Languages" height="150px" />
-</p>
-
----
-
-### 🌐 Restons connectés
+### 🌐 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/heriniaina-randrianasolo-110332184/" target="_blank">
