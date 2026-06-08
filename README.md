@@ -29,4 +29,4 @@ Senior Software Engineer specializing in high-performance backend architectures,
 
 * 💼 **Professional Role:** Senior Software Engineer | Cloud Architecture
 * 📍 **Location:** Madagascar
-* 🌐 **Let's Talk:** [Your LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN) | [Your Portfolio/Email](mailto:your.email@example.com)
+* 🌐 **Let's Talk:** [LinkedIn](https://www.linkedin.com/in/heriniaina-randrianasolo-110332184/) | [Email](mailto:heriniaina.randrianasolo@hotmail.com)
