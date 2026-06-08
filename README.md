@@ -1,6 +1,5 @@
 <p align="center">
   <h1>Hi there, I'm Heri! 👋</h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr6/giphy.gif" width="30px">
 </p>
 
 <p align="center">
