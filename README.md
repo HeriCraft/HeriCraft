@@ -57,7 +57,7 @@ Senior Software Engineer specializing in high-performance backend architectures,
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&title_color=8C4F62&text_color=ffffff&bg_color=1a1a1a" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeriCraft&layout=compact&theme=tokyonight&title_color=8C4F62&text_color=ffffff&bg_color=1a1a1a" alt="Top Languages" height="150px" />
 </p>
 
 ---
